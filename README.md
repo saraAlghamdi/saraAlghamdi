@@ -5,7 +5,7 @@ I am senior Information Systems student, interested in front-end development and
 
 Skills: HTML / CSS / JS
 
-- 🔭 I’m currently working on front-end development  
+- 🔭 I’m currently working on full-stack development  
 - 🌱 I’m currently learning node.js 
 - 📫 How to reach me: sara_alghamdi1@outlook.com 
 
